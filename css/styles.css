@@ -1,0 +1,15 @@
+.sidebar {
+  float: right;
+  width: 25%;
+  background-color: darkgray;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  border: 2px blue dashed;
+}
+
+img {
+  float: left;
+  width: 200px;
+  padding: 0px 20px;
+}
